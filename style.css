@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color: #f9004d;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+
+}
+
+input[type=text], input[type=password] {
+    border-radius: 20px;
+    background-color: whitesmoke;
+    padding-left: 10px;
+}
+
+.row1 {
+    margin-bottom: 5px;
+}
+
+label{
+    color: aliceblue;
+    font-family: 'Poppins',sans-serif;
+}
+
+p{
+    font-family: 'Poppins',sans-serif;
+
+}
+
+.register{
+    color: aliceblue;
+}
